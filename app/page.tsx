@@ -12,7 +12,7 @@ export default function Home() {
           <div className={'app-header'}>
             <div className={'app-logo'}>
               <Image
-                src="/anki_note_logo.png"
+                src="https://teadoku.tech/anki_note_logo.png"
                 alt="Anki Note Logo"
                 width={80}
                 height={48}
@@ -25,7 +25,7 @@ export default function Home() {
           <div className={'app-content-link'}>
             <a href={'https://apps.apple.com/us/app/anki-note/id1586139777'}>
               <Image
-                src="/badge-app-store.webp"
+                src="https://teadoku.tech/badge-app-store.webp"
                 alt="Download Anki Note From App Store"
                 width={160}
                 height={48}
@@ -36,7 +36,7 @@ export default function Home() {
         </div>
         <div className={'app-preview'}>
           <Image
-            src="/card_list_en.png"
+            src="https://teadoku.tech/card_list_en.png"
             alt="Anki Note Preview"
             width={400}
             height={24}
@@ -49,7 +49,7 @@ export default function Home() {
           <div className={'app-header'}>
             <div className={'app-logo'}>
               <Image
-                src="/logo_hs.png"
+                src="https://teadoku.tech/logo_hs.png"
                 alt="Habit Store Reward"
                 width={80}
                 height={48}
@@ -64,7 +64,7 @@ export default function Home() {
           <div className={'app-content-link'}>
             <a href={'https://habit-score-reward.web.app/#/'}>
               <Image
-                src="/badge-web-app.webp"
+                src="https://teadoku.tech/badge-web-app.webp"
                 alt="Open Habit Score Reward"
                 width={160}
                 height={48}
@@ -75,7 +75,7 @@ export default function Home() {
         </div>
         <div className={'app-preview'} style={{borderRadius: 8, overflow: 'hidden'}}>
           <Image
-            src="/web_hs.png"
+            src="https://teadoku.tech/web_hs.png"
             alt="Habit Score Reward Preview"
             width={400}
             height={24}
@@ -88,7 +88,7 @@ export default function Home() {
           <div className={'app-header'}>
             <div className={'app-logo'}>
               <Image
-                src="/logo_fa.png"
+                src="https://teadoku.tech/logo_fa.png"
                 alt="Child Reward Store"
                 width={80}
                 height={48}
@@ -101,7 +101,7 @@ export default function Home() {
           <div className={'app-content-link'}>
             <a href={'https://family-reward.web.app/#/'}>
               <Image
-                src="/badge-web-app.webp"
+                src="https://teadoku.tech/badge-web-app.webp"
                 alt="Open Child Habit Reward"
                 width={160}
                 height={48}
@@ -112,7 +112,7 @@ export default function Home() {
         </div>
         <div className={'app-preview'} style={{borderRadius: 8, overflow: 'hidden'}}>
           <Image
-            src="/web_fa.png"
+            src="https://teadoku.tech/web_fa.png"
             alt="Child Habit Reward Preview"
             width={400}
             height={24}
