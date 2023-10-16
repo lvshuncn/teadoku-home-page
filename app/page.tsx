@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main>
       <section className={'section-title-wrapper'}>
-        <div className={'header-title'}>Teadoku LLC</div>
+        <div className={'header-title'}>TeaTech LLC</div>
         <div className={'header-description'}>Unlocking the Future with AI</div>
       </section>
       <section className={'section-app section-anki-note'}>
@@ -122,7 +122,7 @@ export default function Home() {
       </section>
       <div className={'section-footer'}>
         <div className={'company'}>
-          © 2023, Teadoku LLC All Rights Reserved.
+          © 2023, TeaTech LLC All Rights Reserved.
         </div>
         <div className={'runner'}>Shun Lyu</div>
       </div>
